@@ -1,11 +1,7 @@
 import {
-  Anchor,
   Button,
-  H1,
   H3,
-  Paragraph,
   ScrollView,
-  Separator,
   Sheet,
   XStack,
   YStack,
